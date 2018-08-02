@@ -958,12 +958,8 @@
 	}
 
 	NSpecies = {
-		### REPLACE ############################################################
 		#MIN_ETHIC_POINTS 					= 3
 		#MAX_ETHIC_POINTS 					= 3
-		MIN_ETHIC_POINTS 					= 4
-		MAX_ETHIC_POINTS 					= 4
-		### REPLACE END ########################################################
 
 		### REPLACE ############################################################
 		#MAX_TRAIT_POINTS_LEADER			= 1		# How many trait points a leader can have

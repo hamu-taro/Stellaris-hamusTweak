@@ -1,4 +1,4 @@
-name="Stellaris-hamusTweak"
+name="hamusTweak"
 path="mod/hamus_tweak"
 tags={
 	"Balance"
