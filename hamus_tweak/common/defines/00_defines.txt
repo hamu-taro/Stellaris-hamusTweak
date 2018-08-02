@@ -915,18 +915,26 @@
 		#SUBJECT_INTEGRATION_COST_PER_POP 		= 5 # Integration cost per pop 
 		#SUBJECT_INTEGRATION_COST_PER_PLANET		= 50 # Integration cost per planet
 
+		### REPLACE ############################################################
 		#COMMAND_LIMIT_MAX										= 500	# Max value of Command Limit
+		COMMAND_LIMIT_MAX										= 1000	# Max value of Command Limit
+		### REPLACE END ########################################################
 		#COMMAND_LIMIT_BASE 										= 20	# Base value of Command Limit
 		#
 		#NAVAL_CAPACITY_MAX										= 9999	# Max value of Naval Capacity
 		#NAVAL_CAPACITY_BASE 									= 20	# Base value of Naval Capacity
+		### REPLACE ############################################################
 		#NAVAL_CAPACITY_POP_MULT									= 0.10	# Mult value of Naval Capacity for each Pop
-		#
+		NAVAL_CAPACITY_POP_MULT									= 0.50	# Mult value of Naval Capacity for each Pop
+		### REPLACE ############################################################
 		#STARBASE_CAPACITY_MAX									= 999	# Max value of Starbase Capacity
 		#STARBASE_CAPACITY_BASE 									= 3		# Base value of Starbase Capacity
+		### REPLACE ############################################################
 		#STARBASE_CAPACITY_SYSTEM_MULT							= 0.05	# Mult value of Starbase Capacity for each owned system	
 		#STARBASE_CAPACITY_POP_MULT								= 0.025	# Mult value of Starbase Capacity for each Pop	
-
+		STARBASE_CAPACITY_SYSTEM_MULT							= 0.20	# Mult value of Starbase Capacity for each owned system	
+		STARBASE_CAPACITY_POP_MULT								= 0.05	# Mult value of Starbase Capacity for each Pop	
+		### REPLACE ############################################################
 		#STARBASE_BASE_LEVEL				= "starbase_level_outpost"		# The base starbase level
 		#UPGRADED_STARBASE_BASE_LEVEL	= "starbase_level_starport"		# The first starbase level you upgrade to
 		#
