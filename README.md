@@ -21,7 +21,8 @@
 * 宇宙基地許容量の増加を 1星系 0.05 -> 1星系 0.20 に変更
 * 宇宙基地許容量の増加を 1POP 0.025 -> 1POP 0.05 に変更
 
-宇宙基地
+# リンク
+steam workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=1462455256   
 
 # 変更履歴
 0.01a	マルチ用に公開
