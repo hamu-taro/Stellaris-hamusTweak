@@ -1,4 +1,4 @@
-name="hamusTweak"
+name="hamusTweak[JP]"
 path="mod/hamus_tweak"
 tags={
 	"Balance"
