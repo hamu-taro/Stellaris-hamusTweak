@@ -1,4 +1,4 @@
-﻿# Stellaris MOD - hamus Tweak
+# Stellaris MOD - hamus Tweak
 このリポジトリはParadox Interactive社のStellarisというゲームのMOD、hamusTweakのコードを管理するものです。 
 
 #  MOD概要
@@ -22,10 +22,15 @@
 * 宇宙軍許容量の増加 1POP 0.1 -> 1POP 0.5 に変更
 * 宇宙基地許容量の増加を 1星系 0.05 -> 1星系 0.20 に変更
 * 宇宙基地許容量の増加を 1POP 0.025 -> 1POP 0.05 に変更
+   
+* 「受容主義」以外なら「政策：浄化」を指定できるように変更   
+* 「受容主義」以外なら「政策：奴隷」を指定できるように変更   
+
 
 # リンク
 steam workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=1462455256   
 
 # 変更履歴
+2018/08/08  1.01  浄化と奴隷化の条件を緩和   
 2018/08/07  1.00  Stellaris-v2.1.* 対応   
 2018/08/01  1.00b 試験公開   
