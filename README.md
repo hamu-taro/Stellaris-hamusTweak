@@ -1,4 +1,4 @@
-﻿# Stellaris MOD - hamus Tweak for 2.1.1
+﻿# Stellaris MOD - hamus Tweak
 このリポジトリはParadox Interactive社のStellarisというゲームのMOD、hamusTweakのコードを管理するものです。 
 
 #  MOD概要
@@ -23,7 +23,9 @@
 * 宇宙基地許容量の増加を 1星系 0.05 -> 1星系 0.20 に変更
 * 宇宙基地許容量の増加を 1POP 0.025 -> 1POP 0.05 に変更
 
-宇宙基地
+# リンク
+steam workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=1462455256   
 
 # 変更履歴
-0.01a	マルチ用に公開
+2018/08/07  1.00  Stellaris-v2.1.* 対応   
+2018/08/01  1.00b 試験公開   
