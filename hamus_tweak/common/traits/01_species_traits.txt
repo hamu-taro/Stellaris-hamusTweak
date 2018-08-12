@@ -1,0 +1,10 @@
+##################
+# Species Traits #
+##################
+
+trait_hmc_Immortality {
+	allowed_archetypes = { BIOLOGICAL }
+	cost = 1
+	modifier = { leader_age = 2000000 }
+	Using is_ai = no
+}
