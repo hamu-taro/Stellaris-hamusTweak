@@ -4,6 +4,7 @@
 
 trait_hmc_Immortality {
 	allowed_archetypes = { BIOLOGICAL }
+	opposites = { "trait_deviants" "trait_venerable" "trait_enduring" "trait_fleeting" "trait_hive_mind" "trait_machine_unit" }
 	cost = 1
 	modifier = { leader_age = 2000000 }
 	Using is_ai = no
