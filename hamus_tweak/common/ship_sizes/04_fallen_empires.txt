@@ -61,7 +61,7 @@ massive_ship_fallen_empire = {
 	has_mineral_upkeep = no
 	class = shipclass_military
 	construction_type = starbase_shipyard
-	is_designable = yes
+	is_designable = no
 }
 
 # Fallen Empire Large Ship
@@ -94,7 +94,7 @@ large_ship_fallen_empire = {
 	has_mineral_upkeep = no
 	class = shipclass_military
 	construction_type = starbase_shipyard
-	is_designable = yes
+	is_designable = no
 }
 
 # Fallen Empire Small Ship
@@ -127,7 +127,7 @@ small_ship_fallen_empire = {
 	has_mineral_upkeep = no
 	class = shipclass_military
 	construction_type = starbase_shipyard
-	is_designable = yes
+	is_designable = no
 }
 
 # Fallen Empire Defense Platform
@@ -165,7 +165,7 @@ military_station_small_fallen_empire = {
 	
 	class = shipclass_military_station
 	construction_type = starbase_defenses
-	is_designable = yes
+	is_designable = no
 }
 
 
@@ -202,6 +202,6 @@ military_station_large_fallen_empire = {
 	
 	class = shipclass_military_station
 	construction_type = starbase_defenses
-	is_designable = yes
+	is_designable = no
 }
 
